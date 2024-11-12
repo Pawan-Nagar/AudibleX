@@ -6,6 +6,8 @@
 
 AudibleX is a Spring Boot application that uses OpenAI’s Whisper model to convert audio files into accurate, high-quality transcriptions. Designed with both developers and non-technical users in mind, AudibleX offers a seamless API for transforming speech into readable text, providing a flexible solution for various industries.
 
+![image](https://github.com/user-attachments/assets/8804021e-fa5a-42e3-918d-5df579b34d4f)
+
 ---
 
 ## **Table of Contents**
