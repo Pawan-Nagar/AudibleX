@@ -1,9 +1,6 @@
----
 
 # **AudibleX: AI-Powered Audio Transcription Service**
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](link_to_ci) 
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)  
 [![Java](https://img.shields.io/badge/java-17-blue)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-brightgreen)](https://spring.io/projects/spring-boot)
 
@@ -21,7 +18,6 @@ AudibleX is a Spring Boot application that uses OpenAI’s Whisper model to conv
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
